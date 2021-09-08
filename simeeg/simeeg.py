@@ -3,6 +3,7 @@ import numpy as np
 
 '''
 https://realpython.com/pypi-publish-python-package/#publishing-to-pypi
+https://towardsdatascience.com/how-to-publish-a-python-package-to-pypi-7be9dd5d6dcd
 '''
 class simeeg:
     def __init__ (self):
